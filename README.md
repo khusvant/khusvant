@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, My name is khusvant singh graduated as a mechanical Engineer but having a Interest in coding. So, I  am currently doing traning of full stack developer on Newton School.
 
 <!--
 **khusvant/khusvant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
